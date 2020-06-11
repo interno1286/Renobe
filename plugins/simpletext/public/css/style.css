@@ -1,0 +1,29 @@
+.simpleImage {
+    position: absolute;
+    display: block;
+    opacity: 0;
+}
+
+.simpleImageEditButton {
+    position: absolute;
+    top: 2px;
+    width: 33px;
+    height: 33px;    
+    z-index: 1050;    
+}
+
+.simpleImageEditButton img {
+    cursor: pointer;
+}
+
+st {
+    cursor: pointer;
+}
+
+st:hover {
+    background-image: url('/plugins/simpletext/public/images/edit_back.png');
+}
+
+.tooltip {
+    z-index: 200;
+}

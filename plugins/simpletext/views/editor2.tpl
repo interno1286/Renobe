@@ -1,0 +1,1 @@
+<st class="tt" onclick="simpleText.edit('{$name}', '{base64_encode(json_encode($params))}', this, event);" title="Кликните для редактирования этого блока. Чтобы перейти по ссылке - удерживайте CTRL">{$data|default:'&#9998;'}</st>

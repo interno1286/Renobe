@@ -1,0 +1,7 @@
+{
+    "require": {
+        "zendframework/zend-mvc-i18n": "^1.1",
+        "rubyrainbows/i18n": "^1.1",
+      "ext-curl": "*"
+    }
+}

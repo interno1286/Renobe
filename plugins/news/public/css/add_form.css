@@ -1,0 +1,21 @@
+.news_add_form input {
+	width: 98%;
+	text-align: left;
+}
+
+.news_add_form .add_n_descr {
+	font-style: italic;
+	color: #666;
+    font-size: 12px;    	
+	clear: both;
+	text-align: left;
+}
+
+
+.add_n_more_button {
+    font-size: 14px;
+    border-bottom: 1px dashed #666;
+    font-style: italic;
+    color: #666;
+    cursor: pointer;
+}

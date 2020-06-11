@@ -1,0 +1,13 @@
+
+CREATE TABLE `users` (
+	`id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+	`email` VARCHAR(150) NOT NULL,
+	`password` VARCHAR(64) NOT NULL,
+	`fio` VARCHAR(200) NULL,
+	`user_type` VARCHAR(20) NOT NULL,
+	`blocked` ENUM('Y','N') NOT NULL DEFAULT 'N',
+	PRIMARY KEY (`id`)
+)
+COLLATE='utf8_general_ci'
+
+ENGINE=InnoDB;

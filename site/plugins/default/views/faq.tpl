@@ -1,0 +1,1 @@
+{simpleText name="faq" editor=true}

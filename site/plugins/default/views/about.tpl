@@ -1,0 +1,1 @@
+{simpleText name="about" editor=true}

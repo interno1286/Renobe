@@ -1,0 +1,1 @@
+<input id="st_edit_value" type="text" class="form-control" value="{$data}" />

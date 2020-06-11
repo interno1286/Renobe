@@ -1,0 +1,121 @@
+.comment_block .comment .author {
+    float: left;
+    margin: 0 7px 0 0;
+    font-weight: bold;
+    font-size: 11px;
+    color: #987777;
+}
+
+
+.comment_block {
+    margin-bottom: 65px;
+}
+
+.comment, .inansfor {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.inansfor {
+    background-color: #422b2b;
+    
+}
+
+.comment .date {
+    position: absolute;
+    right: 5px;
+    bottom: -1px;
+    font-size: 11px;
+    font-style: italic;
+    color: #fff;
+}
+
+.comment:hover .date {
+    color: #BA9C9C;        
+} 
+
+.comment:hover .links{
+    display: block;
+}
+
+.comment .city {
+    font-style: italic;
+    color: #999;
+    font-size: 11px;
+    padding-top: 2px;        
+}
+
+.comment .text {
+    color: #ffffff;
+    padding: 16px 20px;
+    margin-top: 1px;
+}
+
+.comment .links {
+    position: absolute;
+    right: 3px;
+    top: 5px;
+    font-size: 11px;
+    display: none;    
+}
+
+
+
+
+.comment .links a {
+    color: #A4B0B6;
+}
+
+.inansfor .text {
+    border: 1px solid #3e4042;    
+    padding: 15px 15px 5px 15px;
+}
+
+.inansfor .author {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    font-size: 11px;
+    color: #C1A4A4;
+    font-weight: normal;        
+}
+
+.leave_comment input[type=text] {
+    width: 98%;
+    margin: 0 0 20px 0;
+}
+
+.leave_comment textarea {
+    width: 98%;
+    height: 100px;        
+}
+
+.leave_comment {
+    border-top: 1px solid #FFD1D6;
+    padding-top: 20px;
+    display: none;
+}
+
+
+#comment_form .ansForText {
+
+    padding: 6px;
+    margin-bottom: 6px;
+    background-color: #6b5454;
+    display: none;
+    color: #f1f1f1;
+    border-radius: 5px;
+}
+
+.ansForText .orig {
+    color: #A3A3A0;
+    font-size: 11px;
+    font-style: italic;
+    height: 20px;
+}
+
+#af_author, #af_ans_text {
+    float: left;
+    margin-right: 5px;
+}
+

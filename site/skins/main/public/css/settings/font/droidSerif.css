@@ -1,0 +1,7 @@
+body {
+    font-family: 'Droid Serif', sans-serif;
+}
+
+.chapter-body, .bodyRanged .chapter-body {
+    font-family: 'Droid Serif', sans-serif !important;
+}

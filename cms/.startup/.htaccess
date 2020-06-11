@@ -1,0 +1,14 @@
+RewriteEngine on
+
+RewriteRule .*\.svn/.* - [F]
+RewriteRule .*\.tpl - [F]
+
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1
+
+RewriteRule .*[^index]\.php - [F]
+
+AddDefaultCharset UTF-8
+
+SetOutputFilter DEFLATE

@@ -1,0 +1,1 @@
+<button class="btn btn-mini" onclick="editPage({$page_id});">редактировать блок</button>

@@ -1,0 +1,165 @@
+body {
+    background: #fff !important;
+    color: #333 !important;
+}
+
+.jumbotron {
+    background-color: #eee !important;
+    border-bottom: 4px solid #efefef !important;
+}
+
+.navbar-default {
+    background-color: #f8f8f8 !important;
+    border-color: #e7e7e7 !important;
+}
+
+.linesAppend .chapter-body {
+    color: #0e0505 !important;
+}
+
+div.ru:hover {
+    border: 1px solid #eadfdf;
+    background-color: #fff;    
+}
+
+.translateit {
+    background-color: #fff;
+    border-right: 1px solid #eadfdf;
+    border-left: 1px solid #eadfdf;
+    border-bottom: 1px solid #eadfdf;    
+}
+
+.infoShowed .pager li>a, .infoShowed .pager li>span {
+    color: #6b5353;
+}
+
+.infoShowed .btn-default {
+    background: transparent;
+    color: #504949;
+    border-color: #c5c5c5;
+}
+
+.infoShowed .btn-primary {
+    color: #4f16ff;
+    border-color: #cab6b6;
+}
+
+.infoShowed .btn-default:focus, .infoShowed .btn-default:hover {
+    background: #d2d2d2 0 -15px;
+    color: #fff;
+}
+
+
+.infoShowed .form-control {
+    background-color: #f5f5f5;
+    border: 1px solid #ffffff;
+    color: #866b6b;
+}
+
+
+.infoShowed .navbar-brand {
+    color: #000;
+}
+
+.infoShowed a {
+    color: #7b7b7b;
+}
+
+.infoShowed .modal-content {
+    background: #ffffff;
+    border-color: #98989a;
+}
+
+.btn {
+    border: 1px solid #dadada;
+    background-color: #ffffff;
+}
+
+.btn.focus, .btn:focus, .btn:hover {
+    color: #000000;
+}
+
+.infoShowed .form-control:focus {
+    background-color: #ffffff;
+    border-color: #fff;
+    color: #000000;
+}
+
+
+.modal-header {
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.modal-footer {
+    border-top: 1px solid #e6e6e6;
+}
+
+
+.infoShowed .btn-primary:focus, .infoShowed .btn-primary:hover {
+    background-color: #f1f1f1;
+    color: #000;
+}
+
+
+.infoShowed .badge.chapter-badge {
+    color: #757575;
+    
+}
+
+.item-background {
+    background-color: #5f93c5;
+}
+
+
+.infoShowed #mlate_index_images {
+    border-bottom: 4px solid #a5a6a9;
+}
+#mlate_index_images {
+    
+    background-color: #5f5f5f;
+}
+
+.infoShowed .panel-footer {
+    background: #ffffff;
+    border-top-color: #c7c7c7;
+}
+
+.infoShowed .panel-default>.panel-heading {
+    background: rgb(255, 255, 255);
+    border-color: #b5b5b5;
+    color: #9a9a9a;
+}
+
+.frame ul li {
+    background: #fff;
+    color: #797979;
+}
+
+.infoShowed .panel {
+    background: transparent;
+    border-color: #cccccc;
+}
+
+.latest {
+    border-bottom: 1px solid #e8caca;
+}
+
+.latest a.head {
+    font-size: 18px;
+    color: #8e8e90;
+}
+
+.latest .name {
+    font-size: 17px;
+    display: block;
+    color: #337ab7 !important;
+}
+
+.latest_chapters {
+    background-color: #f5f5f5 !important;
+}
+
+
+.infoShowed .list-group-item {
+    border-color: #d6d6d6;
+}
