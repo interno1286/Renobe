@@ -1,1 +1,1 @@
-# Old version of site site [mlate.ru](https://mlate.ru/)
+# Old version of the site [mlate.ru](https://mlate.ru/)
